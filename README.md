@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Paras4902
+- 👋 Hi, I’m Paras Udapurkar
 - 👀 I’m interested in SQL Database and Python Programming language.
 - 🌱 I’m currently learning SQL(intermediate).
 - 💞️ I’m looking to collaborate on Python based medium level projects with basic knowledge of SQL Database.
