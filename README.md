@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Paras Udapurkar
-- 👀 I’m interested in MySQL Database and Python Programming language.
-- 🌱 I’m currently learning MySQL.
-- 💞️ I’m looking to collaborate on Python based medium level projects with basic knowledge of MySQL Database.
-- 📫 How to reach me - find me on instagram --> @udapurkar.paras
+Hi there 👋 I am Engineering Undergraduate
+Currently in the 3rd Year
+In search of internship related to Data Analysis
+connect with me on twitter @udapurkar.paras
